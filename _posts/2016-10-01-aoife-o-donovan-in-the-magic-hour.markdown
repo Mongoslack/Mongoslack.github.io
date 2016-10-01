@@ -1,6 +1,5 @@
 ---
 published: true
-title: Aoife O'Donovan - In the Magic Hour
+title: bob dylan
 layout: post
 ---
-The twin powers of the road and memory are powerful, beguiling forces for singer/songwriters.
