@@ -1,9 +1,9 @@
 excerpt_separator: ""
-pygments: -true 
+pygments: true 
 markdown: kramdown
 url: http://Mongoslack.github.io
 title: 2016
 tagline: A world of music
 description: A year of music on TME.fm Radio
 paginate: 5
-+highlighter: rouge
+
